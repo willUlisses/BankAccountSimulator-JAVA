@@ -17,6 +17,6 @@ public class ContaTerminal {
         float saldo = scanner.nextFloat();
 
         System.out.println("\nOlá " + nome + ", obrigado por criar uma conta em nosso banco, sua agencia " + agencia + ", conta " + numero + " e seu saldo de R$" + saldo + " " +
-                "já está disponível para saque");
+                "já está disponível para saque!");
     }
 }

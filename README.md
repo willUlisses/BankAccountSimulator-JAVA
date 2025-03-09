@@ -1,5 +1,6 @@
 ## Bank Account Simulator
 
-This project is a very simple bank account simulator, with all the logic that an account needs and this project will serve to study the basic syntax of java.
+
+This project is a very simple account creation simulation, it does not contain any kind of robust logic, it servers just for studying the usability of the Scanner class.
 
 
